@@ -1,0 +1,9 @@
+Link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download
+Dataset
+File: creditcard.csv
+Source: Kaggle - Credit Card Fraud Detection Dataset
+
+Description:
+Amount — Transaction amount in USD.
+
+Class — Target variable (0 = Legitimate, 1 = Fraudulent).
